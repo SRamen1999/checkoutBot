@@ -2,9 +2,9 @@
 
 # packages you need to install
 
-puppeteer
-nodemailer
-prompt-sync
+puppeteer//
+nodemailer//
+prompt-sync//
 
 you can install them by writing npm install <package_name> on your terminal
 
