@@ -6,7 +6,7 @@ puppeteer\
 nodemailer\
 prompt-sync
 
-you can install them by writing <ins>npm install <package_name><u> on your terminal
+you can install them by writing <ins>npm install <package_name><ins> on your terminal
 
 # How to use the program
 This program only works with items found in Best Buy.\
