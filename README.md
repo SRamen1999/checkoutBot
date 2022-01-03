@@ -9,14 +9,14 @@ prompt-sync
 you can install them by writing npm install <package_name> on your terminal
 
 # How to use the program
-This program only works with items found in Best Buy.
+This program only works with items found in Best Buy.\
 the program will as you to enter some crucial information before checking out the item\
 
-you need to enter the url of the product found on Best Buy.
+you need to enter the url of the product found on Best Buy.\
 you need to enter a gmail address and the gmail's password so nodemailer can send\
 you emails notifing if the product is purchased.
 
-the rest of the information that needs to be entered is the users checkout info. 
+the rest of the information that needs to be entered is the users checkout info.\
 These include
 
 firstName\
