@@ -35,3 +35,5 @@ credit or debit card security code
 After entering all this information the program will check if the product is in stock. If it is then it will\
 procede to buy it. If it is not in stock it will continously check to see if the product is in stock\
 after every 15 seconds.
+
+Shamim
